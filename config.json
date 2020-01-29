@@ -1,9 +1,9 @@
 {
-  "token": "NTM1MDM2NDU3NDgwMzU1ODQw.XjDQKw.niyBbvOUETHlCmKjiWwd5KkfeEc",
-  "mailGuildId": "671872758551937024",
-  "mainGuildId": "671872758551937024",
-  "logChannelId": "671872758551937027",
+  "token": "TOKEN GİR",
+  "mailGuildId": "SUNUCU İD",
+  "mainGuildId": "SUNUCU İD",
+  "logChannelId": "LOG KANAL İD",
 
-  "status": "Message me for help!",
+  "status": "Destek almak için özelden mesaj at!",
   "responseMessage": "Mesajınız İletildi Lütfen Bekleyiniz."
 }
