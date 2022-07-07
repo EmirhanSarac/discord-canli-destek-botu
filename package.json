@@ -21,7 +21,7 @@
     "knex": "^0.20.8",
     "knub-command-manager": "^7.0.0",
     "mime": "^2.4.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mv": "^2.1.1",
     "public-ip": "^4.0.0",
     "sqlite3": "^4.1.1",
